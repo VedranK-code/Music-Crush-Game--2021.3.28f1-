@@ -1,0 +1,2271 @@
+fileFormatVersion: 2
+guid: 9b060919e2a024abda2fb185767eed1d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1865
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80fc97a45b6475e99a58da57668ddc
+      internalID: 147259023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1865
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248c0b6768ae4ff7ae91fb4b929ca3d
+      internalID: 11340096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1845
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb128e5809a16492192098d50d475881
+      internalID: 1397959310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1849
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e31ef7d42534124a357bcee2da9780
+      internalID: 1453221799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_4
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1695
+        width: 88
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57401f0c92c243a781da657dca6cbc5
+      internalID: 664612294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1824
+        width: 168
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45043d4f40e5f437ca7086bff678efce
+      internalID: 2011075219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1820
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e57b0915134a89a736c15cf9aa12e
+      internalID: -941312530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1822
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956608f61eb3423fa59ce7b72d1ce88
+      internalID: -1187515965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1812
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50f1804e13ac464bad91ecc156f7219
+      internalID: 931232447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 144
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817650ec71a5d4b3f91af9f256efe7f0
+      internalID: -262774487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1568
+        width: 258
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07d761231a494b3e96fa51d7798c4fd
+      internalID: -953220291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1800
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4ad220dae7d4585818b2a2e7501c75
+      internalID: -1161138929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1772
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca9a5a2224243b591dff1b005c5884
+      internalID: 925471803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1776
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7337128d8e82143239b78c2e501d1fd7
+      internalID: 602636353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1668
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1508715bf146e69840994af7b4389
+      internalID: -978101701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1676
+        width: 149
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194125dbddfa44a3da0fc0be3b1d6f04
+      internalID: -2081362182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1747
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60045b5c00d1544b69f2e147304d7650
+      internalID: 655777763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1702
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6b982a82b5541b6a823b204b3f43f3
+      internalID: 1239641617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1760
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8904f4c6a0ce248cd9fb7fbbbd47da67
+      internalID: 1068224240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_19
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1760
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b67c36115d5749cf95b1073f34c8da4
+      internalID: -893007179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1749
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af8319f31d14405aa85e98a3cd80c51
+      internalID: 694138260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_21
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b52b30f042f4a2190034139c27ae4b
+      internalID: -1579757584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1548
+        width: 260
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de66632685044825a91d1e537c3bdbe
+      internalID: -1163725307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_23
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1728
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7445d6bbf6248ae8d3604021136b5b
+      internalID: -2044178595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_24
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1699
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a7caa26e5345a7b622853dd4190c3
+      internalID: 2087898174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1701
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b930dcaef044bb99ecc715a53d2be
+      internalID: -730558107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1636
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492a181023af4a6291937de59cc3e23
+      internalID: -303734179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1572
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c76d94e74c42448f9c0d9902babe2
+      internalID: -2078145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_28
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1584
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede48d0866c56488b98c8570cc10a541
+      internalID: 2091226035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_29
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1584
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf08ac2b1954f22b4e954219c41eb0
+      internalID: -2107402303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_30
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1567
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638522be99ef942f5b79bc74c1884f4c
+      internalID: -707626646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_31
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1590
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810be24ccfae5480da4ded229eb80a51
+      internalID: -1848704020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_32
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1594
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c9f228141f495a9923f5bb15d4e6a
+      internalID: 1370021550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_33
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1556
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113bb32212f28440c9e4d6a03a10bf85
+      internalID: 1615538995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_34
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1596
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e7d03d9b40c42eebeb3539eef3579f
+      internalID: 741212489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1064
+        width: 784
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3f449b740c4f94a3c2c19425890d6
+      internalID: -514099539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_36
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1568
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0cd8d272874a9ca76ef1cd7d4658e
+      internalID: -337051977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_37
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1572
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab7caec5d4e84b5bb2a7cf461957edc
+      internalID: -190883718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 524
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e27e20c8494b529aedc093a157002
+      internalID: 844764836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_39
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1417
+        width: 113
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200be7a4d503d4110baf7767cdc619f2
+      internalID: 550142195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1469
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d01b30a5cb4c158a839fe06535b2a
+      internalID: -448772680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1469
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c1b7d57e3f1405fa2e180c0bf850f3
+      internalID: 1942014982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1324
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee025ee35c24657b2ef182ef31fc3b
+      internalID: -1686622234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276
+        width: 208
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd2901cff6448359ab31a38a810fb8
+      internalID: 693261663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1276
+        width: 144
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627feaacf17d447fcac2e1033def7b9d
+      internalID: -1584853106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_45
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1276
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ecee11b25140e1ac87a2baa7fe720
+      internalID: -36699717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1320
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6cc67d600af4b48a730f33037b7c07
+      internalID: -1271012234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1020
+        width: 204
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83a4dfb89f4426bb9744b6e9a63e69
+      internalID: 701663528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1244
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd92ca3a4ec246cbb8026b9dfb7e7a8
+      internalID: 1082987411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_49
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1268
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038f0b9b385a40c7b59e2015189e962
+      internalID: -2008278696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_50
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1274
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5155aecfdb47d38549e6221df0c5c
+      internalID: 1460890335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1016
+        width: 248
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed8700a18a114e01b19bf9147bd235f
+      internalID: -366594147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1223
+        width: 528
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d369eb6569f24c679907d38de1c8947
+      internalID: -26198497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_53
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d02b251dcc846c6ace9a5f9ed37b5c
+      internalID: -1591277470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_54
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822af81fda0b24d978fb341f035a7e92
+      internalID: -154406114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1020
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde0b2155dfd44a6b6c2cc4d11e0eca
+      internalID: 1649570007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_56
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1218
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9fc1182fa04508b544c011b44fbeb
+      internalID: -783520456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_57
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1218
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dbd519e0d2a4f9b88bb937188669bc
+      internalID: -2030646102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_58
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1186
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff949f648d164157abd884448be5dbf
+      internalID: 1803743828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_59
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1200
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bc6548a4c1b4de890ef1d90ce4dcef
+      internalID: -1494354187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_60
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1186
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1b123959874c5f90b76af9148f700
+      internalID: 124578364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_61
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1200
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56deeab1403674e6f95b0bb0d3b38538
+      internalID: -163471269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_62
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1019
+        width: 433
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2cf6ca22b94db2929ba51d75d5dc7
+      internalID: 1476809914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_63
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1182
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f9987ac5874cfd8e3ad3724191a2f
+      internalID: -309307776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_64
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1182
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3287de9cb33c43cf8e4d819a5bfe1a1
+      internalID: -1394488686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_65
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 890
+        width: 128
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0630bb84e6443fba5cc6653cb9c81
+      internalID: -1975841121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_66
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1033
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16d076edbc341b2b4869e62c6e8f34
+      internalID: -1025622990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_67
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1018
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a32168c21d8b4691bb1f813cfb678a7
+      internalID: 274174364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_68
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1078
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae105dc63ee75400db867da68017dd1a
+      internalID: 1783800184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_69
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1020
+        width: 522
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4982ed58964c62b837ccf8f7914f0
+      internalID: -1965665343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_70
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1048
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d37e473c35438d95a694ce387564e
+      internalID: -1958425931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_71
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1056
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6389eb6f7cc7490694a90b4838d8a8b
+      internalID: 138634693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_72
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1028
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f5dd00815f44438c0033d6114b09a
+      internalID: -1083378990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_73
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1022
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d13ba2d35774aadb005d65fb25c548
+      internalID: -415834089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_74
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1019
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795d45489f0b4725b07ad0808c1ce3e
+      internalID: -668471790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 1449
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6b3fba60334282811f5220973b0f1
+      internalID: 2115441438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_76
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 894
+        width: 123
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120acc79516a5416baa577c1d36b0eb7
+      internalID: -773644950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_77
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 794
+        width: 142
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5493bd23ac72a4593a29e5dc0a1228b9
+      internalID: 1198207964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_78
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 906
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6e7cace900406a86b8f142bafd624
+      internalID: 512638860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_79
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 910
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb38ba7f46ee4257ba3d6b998e2a885
+      internalID: 1012901084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_80
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 913
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6a0fb14e144e958cec858a520c6b3
+      internalID: 2032321974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_81
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 882
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480230822b4e45809a6f088f1dbe118
+      internalID: -727070738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_82
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 895
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2999b688aea414f8dfb5bdf579fe0d
+      internalID: 1022649210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_83
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 892
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e23707c21745a9959f4f288ba70a2
+      internalID: 1456666062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_84
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 886
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140faaf945c44e2cb59b44594712884
+      internalID: -340102413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1443
+        height: 835
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49004c67f2b74861aaaa9d1dd109f4a
+      internalID: 1082043361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_86
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 436
+        width: 372
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf1d1f9c02f43908fff0b9762a7be7
+      internalID: -602067354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_87
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 686
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d7ff471ff9441ca0dd5ec606c26e9
+      internalID: 922398685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_88
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 572
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8330efcb9da44138b0cd12fea1d55ce
+      internalID: -682015890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_89
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 437
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ef7311f20746b0b102b6ca4a0a898
+      internalID: 1803852558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_90
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 4
+        width: 424
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c088e7fe265e7412d8422501253b632e
+      internalID: 2100121277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_91
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 121
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4069f7be55da48aca1a27f86ea5ebcf
+      internalID: -2002667866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_92
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 128
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eff78ea94d84bd3b0d3bf9ab9aaaab
+      internalID: -1631750109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_93
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 94
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0c7c6c0b35432bbc2d3379883f4c1
+      internalID: -1938686912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_94
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 90
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5667b7f45f96e4e3faa3cf785c9c2690
+      internalID: 1518418602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ETC2-Game-20e0a2dc_95
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b3d8413b8804e06a44167601b78e91
+      internalID: -753356469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec8e85b3477fd42c28831b363b9aa7f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x2048-ETC2-Game-20e0a2dc_0: 147259023
+      sactx-2048x2048-ETC2-Game-20e0a2dc_1: 11340096
+      sactx-2048x2048-ETC2-Game-20e0a2dc_10: -953220291
+      sactx-2048x2048-ETC2-Game-20e0a2dc_11: -1161138929
+      sactx-2048x2048-ETC2-Game-20e0a2dc_12: 925471803
+      sactx-2048x2048-ETC2-Game-20e0a2dc_13: 602636353
+      sactx-2048x2048-ETC2-Game-20e0a2dc_14: -978101701
+      sactx-2048x2048-ETC2-Game-20e0a2dc_15: -2081362182
+      sactx-2048x2048-ETC2-Game-20e0a2dc_16: 655777763
+      sactx-2048x2048-ETC2-Game-20e0a2dc_17: 1239641617
+      sactx-2048x2048-ETC2-Game-20e0a2dc_18: 1068224240
+      sactx-2048x2048-ETC2-Game-20e0a2dc_19: -893007179
+      sactx-2048x2048-ETC2-Game-20e0a2dc_2: 1397959310
+      sactx-2048x2048-ETC2-Game-20e0a2dc_20: 694138260
+      sactx-2048x2048-ETC2-Game-20e0a2dc_21: -1579757584
+      sactx-2048x2048-ETC2-Game-20e0a2dc_22: -1163725307
+      sactx-2048x2048-ETC2-Game-20e0a2dc_23: -2044178595
+      sactx-2048x2048-ETC2-Game-20e0a2dc_24: 2087898174
+      sactx-2048x2048-ETC2-Game-20e0a2dc_25: -730558107
+      sactx-2048x2048-ETC2-Game-20e0a2dc_26: -303734179
+      sactx-2048x2048-ETC2-Game-20e0a2dc_27: -2078145
+      sactx-2048x2048-ETC2-Game-20e0a2dc_28: 2091226035
+      sactx-2048x2048-ETC2-Game-20e0a2dc_29: -2107402303
+      sactx-2048x2048-ETC2-Game-20e0a2dc_3: 1453221799
+      sactx-2048x2048-ETC2-Game-20e0a2dc_30: -707626646
+      sactx-2048x2048-ETC2-Game-20e0a2dc_31: -1848704020
+      sactx-2048x2048-ETC2-Game-20e0a2dc_32: 1370021550
+      sactx-2048x2048-ETC2-Game-20e0a2dc_33: 1615538995
+      sactx-2048x2048-ETC2-Game-20e0a2dc_34: 741212489
+      sactx-2048x2048-ETC2-Game-20e0a2dc_35: -514099539
+      sactx-2048x2048-ETC2-Game-20e0a2dc_36: -337051977
+      sactx-2048x2048-ETC2-Game-20e0a2dc_37: -190883718
+      sactx-2048x2048-ETC2-Game-20e0a2dc_38: 844764836
+      sactx-2048x2048-ETC2-Game-20e0a2dc_39: 550142195
+      sactx-2048x2048-ETC2-Game-20e0a2dc_4: 664612294
+      sactx-2048x2048-ETC2-Game-20e0a2dc_40: -448772680
+      sactx-2048x2048-ETC2-Game-20e0a2dc_41: 1942014982
+      sactx-2048x2048-ETC2-Game-20e0a2dc_42: -1686622234
+      sactx-2048x2048-ETC2-Game-20e0a2dc_43: 693261663
+      sactx-2048x2048-ETC2-Game-20e0a2dc_44: -1584853106
+      sactx-2048x2048-ETC2-Game-20e0a2dc_45: -36699717
+      sactx-2048x2048-ETC2-Game-20e0a2dc_46: -1271012234
+      sactx-2048x2048-ETC2-Game-20e0a2dc_47: 701663528
+      sactx-2048x2048-ETC2-Game-20e0a2dc_48: 1082987411
+      sactx-2048x2048-ETC2-Game-20e0a2dc_49: -2008278696
+      sactx-2048x2048-ETC2-Game-20e0a2dc_5: 2011075219
+      sactx-2048x2048-ETC2-Game-20e0a2dc_50: 1460890335
+      sactx-2048x2048-ETC2-Game-20e0a2dc_51: -366594147
+      sactx-2048x2048-ETC2-Game-20e0a2dc_52: -26198497
+      sactx-2048x2048-ETC2-Game-20e0a2dc_53: -1591277470
+      sactx-2048x2048-ETC2-Game-20e0a2dc_54: -154406114
+      sactx-2048x2048-ETC2-Game-20e0a2dc_55: 1649570007
+      sactx-2048x2048-ETC2-Game-20e0a2dc_56: -783520456
+      sactx-2048x2048-ETC2-Game-20e0a2dc_57: -2030646102
+      sactx-2048x2048-ETC2-Game-20e0a2dc_58: 1803743828
+      sactx-2048x2048-ETC2-Game-20e0a2dc_59: -1494354187
+      sactx-2048x2048-ETC2-Game-20e0a2dc_6: -941312530
+      sactx-2048x2048-ETC2-Game-20e0a2dc_60: 124578364
+      sactx-2048x2048-ETC2-Game-20e0a2dc_61: -163471269
+      sactx-2048x2048-ETC2-Game-20e0a2dc_62: 1476809914
+      sactx-2048x2048-ETC2-Game-20e0a2dc_63: -309307776
+      sactx-2048x2048-ETC2-Game-20e0a2dc_64: -1394488686
+      sactx-2048x2048-ETC2-Game-20e0a2dc_65: -1975841121
+      sactx-2048x2048-ETC2-Game-20e0a2dc_66: -1025622990
+      sactx-2048x2048-ETC2-Game-20e0a2dc_67: 274174364
+      sactx-2048x2048-ETC2-Game-20e0a2dc_68: 1783800184
+      sactx-2048x2048-ETC2-Game-20e0a2dc_69: -1965665343
+      sactx-2048x2048-ETC2-Game-20e0a2dc_7: -1187515965
+      sactx-2048x2048-ETC2-Game-20e0a2dc_70: -1958425931
+      sactx-2048x2048-ETC2-Game-20e0a2dc_71: 138634693
+      sactx-2048x2048-ETC2-Game-20e0a2dc_72: -1083378990
+      sactx-2048x2048-ETC2-Game-20e0a2dc_73: -415834089
+      sactx-2048x2048-ETC2-Game-20e0a2dc_74: -668471790
+      sactx-2048x2048-ETC2-Game-20e0a2dc_75: 2115441438
+      sactx-2048x2048-ETC2-Game-20e0a2dc_76: -773644950
+      sactx-2048x2048-ETC2-Game-20e0a2dc_77: 1198207964
+      sactx-2048x2048-ETC2-Game-20e0a2dc_78: 512638860
+      sactx-2048x2048-ETC2-Game-20e0a2dc_79: 1012901084
+      sactx-2048x2048-ETC2-Game-20e0a2dc_8: 931232447
+      sactx-2048x2048-ETC2-Game-20e0a2dc_80: 2032321974
+      sactx-2048x2048-ETC2-Game-20e0a2dc_81: -727070738
+      sactx-2048x2048-ETC2-Game-20e0a2dc_82: 1022649210
+      sactx-2048x2048-ETC2-Game-20e0a2dc_83: 1456666062
+      sactx-2048x2048-ETC2-Game-20e0a2dc_84: -340102413
+      sactx-2048x2048-ETC2-Game-20e0a2dc_85: 1082043361
+      sactx-2048x2048-ETC2-Game-20e0a2dc_86: -602067354
+      sactx-2048x2048-ETC2-Game-20e0a2dc_87: 922398685
+      sactx-2048x2048-ETC2-Game-20e0a2dc_88: -682015890
+      sactx-2048x2048-ETC2-Game-20e0a2dc_89: 1803852558
+      sactx-2048x2048-ETC2-Game-20e0a2dc_9: -262774487
+      sactx-2048x2048-ETC2-Game-20e0a2dc_90: 2100121277
+      sactx-2048x2048-ETC2-Game-20e0a2dc_91: -2002667866
+      sactx-2048x2048-ETC2-Game-20e0a2dc_92: -1631750109
+      sactx-2048x2048-ETC2-Game-20e0a2dc_93: -1938686912
+      sactx-2048x2048-ETC2-Game-20e0a2dc_94: 1518418602
+      sactx-2048x2048-ETC2-Game-20e0a2dc_95: -753356469
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

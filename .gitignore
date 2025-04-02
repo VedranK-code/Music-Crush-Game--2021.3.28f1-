@@ -1,0 +1,14 @@
+/.utmp
+/Assembly-CSharp-Editor-firstpass.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-firstpass.csproj
+/Assembly-CSharp.csproj
+/Build
+/Library
+/Logs
+/Music Crush_BurstDebugInformation_DoNotShip
+/obj
+/Temp
+/UserSettings
+# Ignore Firebase Plugins
+Assets/Firebase/
